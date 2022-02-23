@@ -1,0 +1,62 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.bg-blue {
+    background-color: #C4E2FF;
+}
+.border-bottom-dark {
+    border-bottom: 1px solid rgb(41, 41, 41, 1);
+}
+.border-bottom-light-dark {
+    border-bottom: 1px solid rgba(70, 66, 66, 0.1);
+}
+.font-12 {
+    font-size: 12px;
+}
+.font-13 {
+    font-size: 13px;
+}
+.font-14 {
+    font-size: 14px;
+}
+.color-grey
+{
+    color: rgb(41, 41, 41, 0.8);  
+}
+/* Second Part Start */
+.numbers {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(230, 230, 230, 1);
+    font-weight: 800;
+}
+.article-heading {
+    font-weight: 700;
+    color: #292929; 
+}
+.trending {
+    font-size: 12px;
+    color: #292929;
+}
+
+/* Second Part End */
+
+/* Right Part Start */
+
+.right-bar-button {
+    border: 1px solid rgba(0, 0, 0, 0.2) ;
+    padding: 5px 10px;
+    margin: 5px;
+    color: rgb(41, 41, 41, 0.6);  
+}
+.right-bar-links {
+    font-weight: 500;
+    margin-right: 15px;
+    margin-bottom: 8px;
+}
+.right-bar-links:hover {
+    color: rgb(41, 41, 41, 0.8);  
+}
+
+/* Right Part End */
